@@ -54,7 +54,7 @@
         };
 
         layer_2 {
-        display-name = "Sym"
+        display-name = "Sym";
             bindings = <
 &kp GRAVE  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &mt PLUS EQUAL
 &kp TILDE  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
